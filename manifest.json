@@ -27,5 +27,28 @@
       "type": "image/png",
       "purpose": "maskable"
     }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot-1.png",
+      "sizes": "470x927",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Dashboard — daily calories and macros at a glance"
+    },
+    {
+      "src": "screenshot-2.png",
+      "sizes": "492x930",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Food log with quick-add and custom entries"
+    },
+    {
+      "src": "screenshot-3.png",
+      "sizes": "460x922",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Workout coaching with progressive overload guidance"
+    }
   ]
 }
