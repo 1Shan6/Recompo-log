@@ -1,6 +1,6 @@
 {
-  "name": "Recomp Log",
-  "short_name": "Recomp",
+  "name": "Macros Buddy",
+  "short_name": "MacroBuddy",
   "description": "Personal training and nutrition coach — log workouts, track macros, and follow progressive overload coaching.",
   "start_url": "./index.html",
   "scope": "./",
